@@ -1,6 +1,6 @@
 # day10CW
 
-hosted link: 
+hosted link: https://tareeqadnaan806.github.io/day10CW/index.html
 
 this is day10 assignment where i want to change background whenever i clicked on button here i want to change random backgroound colors 
 
